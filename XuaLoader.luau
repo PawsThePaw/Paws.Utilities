@@ -149,3 +149,4 @@ LoaderTbl.InjectScript = function()
         end
     end
 end
+return LoaderTbl
